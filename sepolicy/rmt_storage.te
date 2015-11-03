@@ -1,4 +1,4 @@
-typeattribute rmt_storage rmt_placeholder;
+#typeattribute rmt_storage rmt_placeholder;
 
 allow rmt_storage ssd_device:blk_file rw_file_perms;
 
